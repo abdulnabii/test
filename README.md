@@ -21,29 +21,4 @@ cd test
 
 ## Usage
 
-Add your project files, update this README with real project details, and start building.
-
-## Suggested Structure
-
-```bash
-test/
-├── README.md
-├── src/
-├── public/
-└── package.json
-```
-
-## Roadmap
-
-- Add initial project files
-- Define project purpose
-- Document setup steps
-- Deploy or share the project
-
-## Contributing
-
-Contributions, suggestions, and improvements are welcome.
-
-## License
-
-Add a license here if needed.
+Add your pro
